@@ -29,7 +29,6 @@ void setup() {
   surface.setSize(img.width, img.height); //set canvas size to image size
   background(0);
   imageMode(CENTER);
-
 }
 
 void draw() {
